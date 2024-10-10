@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6a9a6c-0896-4ed8-a6da-8b9e0c7efb0e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/uiejemplos/proyectopruebagithub/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/uiejemplos/proyectopruebagithub/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="8d6a9a6c-0896-4ed8-a6da-8b9e0c7efb0e" name="Changes" comment="Texto del boton cambio por segunda vez" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "venturin09"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/venturin09/Prueba4",
+    "accountId": "b8a0b74f-9d58-4647-9a82-14bdd88e1b72"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -34,7 +43,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
@@ -48,6 +59,28 @@
       <option name="presentableId" value="Default" />
       <updated>1728401779794</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer Commit">
+      <option name="closed" value="true" />
+      <created>1728409133411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728409133411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Texto del boton cambio por segunda vez">
+      <option name="closed" value="true" />
+      <created>1728410222337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728410222337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer Commit" />
+    <MESSAGE value="Texto del boton cambio por segunda vez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Texto del boton cambio por segunda vez" />
   </component>
 </project>
